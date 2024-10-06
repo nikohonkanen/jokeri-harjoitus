@@ -1,0 +1,16 @@
+button {
+    background-color: #dedff2;
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 8px;
+}
+
+table {
+    border-spacing: 1em;
+}
+
+td {
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 0.5em 0.8em 0.5em 0.8em;
+    background-color: #ffebcd;
+}
